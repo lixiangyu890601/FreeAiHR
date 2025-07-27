@@ -51,9 +51,23 @@ git clone https://github.com/your-org/hr-resume-ai-system.git
 cd hr-resume-ai-system
 docker-compose up -d
 ```
+## Demo链接
 
 访问地址：http://47.112.19.196:8080/dashboard/position
 默认账号：admin@example.com / admin123456
+
+## 截图一览
+
+HR发布的岗位：
+<img width="1621" height="870" alt="image" src="https://github.com/user-attachments/assets/c8bc0834-aaab-4cc3-a0cf-6227ef78f4a9" />
+<img width="1610" height="857" alt="image" src="https://github.com/user-attachments/assets/8befcb51-fccf-4210-b685-fc389e41921c" />
+
+HR收到的简历列表：
+<img width="1629" height="878" alt="image" src="https://github.com/user-attachments/assets/4f636ca3-49e8-47d2-840d-5c0b6bda0732" />
+
+找工作者上传简历：
+<img width="1620" height="507" alt="image" src="https://github.com/user-attachments/assets/5fdbbe7f-cc04-4493-b18a-91dda8d99091" />
+
 
 ## 📌 适用客户
 
