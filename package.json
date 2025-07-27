@@ -1,21 +1,46 @@
 {
-  "name": "resume-web",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "name": "resume-server",
+  "version": "1.0.0",
+  "description": "Koa3 web service with user authentication",
+  "main": "server.js",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "start": "node dist/server.js",
+    "dev": "nodemon --exec ts-node server.ts",
+    "debug": "nodemon --exec ts-node --inspect scripts/debug.ts",
+    "seed": "ts-node scripts/seedUsers.ts",
+    "init-db": "ts-node scripts/initDatabase.ts",
+    "create-user": "ts-node scripts/createMultipleUsers.ts",
+    "build": "tsc"
   },
   "dependencies": {
-    "@element-plus/icons-vue": "^2.3.1",
-    "element-plus": "^2.9.5",
-    "vue": "^3.5.13",
-    "vue-router": "^4.5.0"
+    "@koa/cors": "^5.0.0",
+    "bcryptjs": "^2.4.3",
+    "debug": "^4.4.1",
+    "dotenv": "^16.3.1",
+    "jsonwebtoken": "^9.0.2",
+    "koa": "^3.0.0",
+    "koa-bodyparser": "^4.4.1",
+    "koa-helmet": "^7.0.2",
+    "koa-jwt": "^4.0.4",
+    "koa-ratelimit": "^5.1.0",
+    "koa-router": "^12.0.0",
+    "mysql2": "^3.6.5",
+    "sequelize": "^6.35.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^5.2.1",
-    "vite": "^6.1.0"
+    "@types/bcryptjs": "^2.4.6",
+    "@types/jsonwebtoken": "^9.0.10",
+    "@types/koa": "^2.15.0",
+    "@types/koa__cors": "^5.0.0",
+    "@types/koa-bodyparser": "^4.3.12",
+    "@types/koa-cors": "^0.0.6",
+    "@types/koa-helmet": "^6.0.8",
+    "@types/koa-ratelimit": "^5.0.5",
+    "@types/koa-router": "^7.4.8",
+    "@types/node": "^24.0.15",
+    "@types/sequelize": "^4.28.20",
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
   }
 }
