@@ -39,7 +39,7 @@ FreeAiHR 是一款**开源**的**企业级智能招聘管理系统**，支持：
 
 ## 🚀 快速部署
 
-访问地址：http://localhost:8080
+访问地址：(http://47.112.19.196:8080/login
 默认账号：admin@example.com / admin123456
 
 ## 📌 适用客户
