@@ -54,5 +54,5 @@ FreeAiHR 是一款**开源**的**企业级智能招聘管理系统**，支持：
 欢迎提交PR或Issues！
 
 ## 📞 联系我们
-💬 微信：freeaiclub
+💬 微信：freeaiclub、freeaihr
 🌐 官网：www.gousandian.com
