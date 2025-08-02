@@ -1,5 +1,6 @@
 # FreeAiHR
-开源HR系统、AI招聘系统、简历智能匹配、私有化部署、企业招聘解决方案、NLP简历分析、人才管理系统、AI面试系统、招聘系统、人力资源管理、AI简历，AIHR系统。
+AI人力资源、AI简历，AIHR系统、AI招聘、简历智能匹配、私有化部署、企业招聘解决方案、NLP简历分析、人才管理系统、招聘系统、人力资源管理。
+
 **企业级智能招聘解决方案 | 私有化部署 | AI驱动 | 全流程管理**
 
 ## 🌟 产品概述
@@ -56,3 +57,4 @@ FreeAiHR 是一款**开源**的**企业级智能招聘管理系统**，支持：
 ## 📞 联系我们
 💬 微信：freeaiclub、freeaihr
 🌐 官网：www.gousandian.com
+![12e419a81f84cbb1b8c4b199894f6cc2](https://github.com/user-attachments/assets/84df6c1e-ff59-4fad-91d6-fd60b02530f8)
