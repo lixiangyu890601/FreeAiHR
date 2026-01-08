@@ -1,4 +1,6 @@
-# FreeHire - 智能招聘系统
+# FreeAiHR - AI时代下的人力资源系统
+
+AI面试，AI简历，AI人力资源！
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-17-orange" alt="Java">
@@ -11,7 +13,7 @@
 
 ## 📖 简介
 
-FreeHire 是一款企业级智能招聘解决方案，支持私有化部署，AI驱动的全流程招聘管理系统。
+FreeAiHR 是一款企业级、人工智能时代下的智能招聘解决方案，支持私有化部署，AI驱动的全流程招聘管理系统！
 
 ### ✨ 核心特性
 
@@ -182,15 +184,14 @@ AI功能包括：
 | 中型 (<500用户) | 4核 | 8GB | 100GB |
 | 大型 (>500用户) | 8核 | 16GB | 200GB+ |
 
-## 📄 License
+## 🤝 联系客服小编
 
-[MIT License](LICENSE)
-
-## 🤝 联系我们
+点击Star，扫码添加客服小编微信，入群讨论：
+![0e1483a4df22e1f6c8ec5404ee86a7f0](https://github.com/user-attachments/assets/d0b5edf3-aefd-4631-a073-5c95f30bc945)
 
 如有问题或建议，欢迎提交 Issue 或 Pull Request。
 
 ---
 
-<p align="center">Made with ❤️ by FreeHire Team</p>
+<p align="center">Made with ❤️ by FreeAiHR Team</p>
 
