@@ -1,11 +1,11 @@
 # FreeAiHR - AI时代下的人力资源系统
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Java-17-orange" alt="Java">
   <img src="https://img.shields.io/badge/Spring%20Boot-3.2.5-green" alt="Spring Boot">
   <img src="https://img.shields.io/badge/React-18-blue" alt="React">
   <img src="https://img.shields.io/badge/Ant%20Design-5.x-blue" alt="Ant Design">
   <img src="https://img.shields.io/badge/PostgreSQL-16-blue" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
+  <img src="https://img.shields.io/badge/License-AGPL-yellow" alt="License">
 </p>
 
 ## 📖 简介
