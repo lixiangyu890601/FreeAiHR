@@ -29,7 +29,6 @@ AI面试，AI简历，AI人力资源！FreeAiHR 是一款企业级、人工智�
 - MyBatis-Plus (ORM)
 - PostgreSQL (数据库)
 - Redis (缓存)
-- MinIO (文件存储)
 
 ### 前端
 - React 18
