@@ -182,7 +182,10 @@ AI功能包括：
 
 ## 🤝 联系客服小编
 
-点击Star，扫码添加客服小编微信，入群讨论：
+点击Star！入群讨论：
+![f42c29dfff25a1deea020f51eaf373b5](https://github.com/user-attachments/assets/318d1953-6a9f-44d2-8756-879d9ba354e3)
+
+扫码添加客服小编微信
 ![0e1483a4df22e1f6c8ec5404ee86a7f0](https://github.com/user-attachments/assets/d0b5edf3-aefd-4631-a073-5c95f30bc945)
 
 如有问题或建议，欢迎提交 Issue 或 Pull Request。
