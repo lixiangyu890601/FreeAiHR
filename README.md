@@ -182,6 +182,10 @@ AI功能包括：
 
 ## 🤝 联系客服小编
 
+完整版代码文件：freeaihr源码包.zip【Github文件上传个数有限制，最新源码文件见网盘里链接】
+链接: https://pan.baidu.com/s/1ijM6z3lGgSSJlEI2zxW47A?pwd=mn9j 提取码: mn9j 
+
+
 点击Star后，入群讨论：
 ![dffc06447b707020cf32ecdb80f47516](https://github.com/user-attachments/assets/a739739b-f598-4a42-8389-a188b734dc17)
 
