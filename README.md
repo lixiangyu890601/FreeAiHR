@@ -187,7 +187,9 @@ AI功能包括：
 
 
 点击Star后，入群讨论：
-![dffc06447b707020cf32ecdb80f47516](https://github.com/user-attachments/assets/a739739b-f598-4a42-8389-a188b734dc17)
+
+![1a773690f30fa4fdd93af414a0fd399a](https://github.com/user-attachments/assets/873b4fa3-fe0b-40db-b894-d8ec2c4431ba)
+
 
 扫码添加客服小编微信
 ![0e1483a4df22e1f6c8ec5404ee86a7f0](https://github.com/user-attachments/assets/d0b5edf3-aefd-4631-a073-5c95f30bc945)
