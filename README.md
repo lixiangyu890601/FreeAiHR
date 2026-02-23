@@ -183,12 +183,14 @@ AI功能包括：
 ## 🤝 联系客服小编
 
 完整版代码文件：freeaihr源码包.zip【Github文件上传个数有限制，最新源码文件见网盘里链接】
-链接: https://pan.baidu.com/s/1ijM6z3lGgSSJlEI2zxW47A?pwd=mn9j 提取码: mn9j 
+链接: https://pan.baidu.com/s/1jXsBsibxG5cQ8Lf7wcjT6g?pwd=sdty 提取码: sdty 
+--来自百度网盘超级会员v9的分享
 
 
 点击Star后，入群讨论：
 
-<img width="1031" height="1478" alt="db06d17402f5c4e14c0bb1827030db6e" src="https://github.com/user-attachments/assets/4389cb6c-26c9-4855-be7e-a18d8b84988d" />
+![1b9296dcea547441ef1d166fff10f25c](https://github.com/user-attachments/assets/7c392bfb-71ad-492a-a0c2-9bd5152d9785)
+
 
 扫码添加客服小编微信
 ![0e1483a4df22e1f6c8ec5404ee86a7f0](https://github.com/user-attachments/assets/d0b5edf3-aefd-4631-a073-5c95f30bc945)
