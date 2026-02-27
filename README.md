@@ -198,6 +198,9 @@ AI功能包括：
 
 如有问题或建议，欢迎提交 Issue 或 Pull Request。
 
+另：
+由于开源协议为AGPL，如希望不遵守该协议，1k-2k转账即可（备注公司名称、个人姓名、身份证号等标识信息）。
+
 ---
 
 <p align="center">Made with ❤️ by FreeAiHR Team</p>
