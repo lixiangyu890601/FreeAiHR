@@ -190,7 +190,7 @@ AI功能包括：
 
 点击Star后，入群讨论：
 
-![1b9296dcea547441ef1d166fff10f25c](https://github.com/user-attachments/assets/7c392bfb-71ad-492a-a0c2-9bd5152d9785)
+![0a25bae275092ab9fd10c89b8473ee4b](https://github.com/user-attachments/assets/378391da-ac90-4c23-bf7e-8911bf931e9e)
 
 
 扫码添加客服小编微信
