@@ -183,8 +183,8 @@ AI功能包括：
 
 ## 🤝 联系客服小编
 
-完整版代码文件：freeaihr源码包.zip【Github文件上传个数有限制，最新源码文件见网盘里链接】
-链接: https://pan.baidu.com/s/1jXsBsibxG5cQ8Lf7wcjT6g?pwd=sdty 提取码: sdty 
+通过网盘分享的文件：freeaihr源码包.zip
+链接: https://pan.baidu.com/s/1Z3YLQG7jkdHaY6TC8XqV4A?pwd=6126 提取码: 6126 
 --来自百度网盘超级会员v9的分享
 
 
