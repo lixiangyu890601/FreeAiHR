@@ -189,7 +189,7 @@ AI功能包括：
 
 
 点击Star后，入群讨论：
-
+(https://github.com/lixiangyu890601/FreeAiHR/blob/main/docs/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260314145855_7016_7.jpg)
 
 扫码添加客服小编微信
 ![0e1483a4df22e1f6c8ec5404ee86a7f0](https://github.com/user-attachments/assets/d0b5edf3-aefd-4631-a073-5c95f30bc945)
