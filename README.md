@@ -190,7 +190,7 @@ AI功能包括：
 
 点击Star后，入群讨论：
 
- <img src="https://github.com/lixiangyu890601/FreeAiHR/blob/main/docs/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260314145855_7016_7.jpg">
+ <img src="https://github.com/lixiangyu890601/FreeAiHR/blob/main/docs/ScreenShot_2026-03-14_151046_054.png">
 
 
 
