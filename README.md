@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-16-blue" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/License-AGPL-yellow" alt="License">
 </p>
-
+ 
 ## 📖 简介
 
 AI面试，AI简历，AI人力资源！FreeAiHR 是一款企业级、人工智能时代下的智能招聘解决方案，支持私有化部署，AI驱动的全流程招聘管理系统！
@@ -189,6 +189,9 @@ AI功能包括：
 
 
 点击Star后，入群讨论：
+
+ <img src="https://github.com/lixiangyu890601/FreeAiHR/blob/main/docs/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260314145855_7016_7.jpg">
+
 
 
 
