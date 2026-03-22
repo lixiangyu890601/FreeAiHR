@@ -201,11 +201,7 @@ www.freeipcc.com
 
 点击Star后，入群讨论：
 
- <img src="https://github.com/lixiangyu890601/FreeAiHR/blob/main/docs/ScreenShot_2026-03-14_151046_054.png">
-
-
-
-
+<img width="450" height="710" alt="image" src="https://github.com/user-attachments/assets/0f3df706-5b77-4687-baef-b867b31a8c98" />
 
 扫码添加客服小编微信
 ![0e1483a4df22e1f6c8ec5404ee86a7f0](https://github.com/user-attachments/assets/d0b5edf3-aefd-4631-a073-5c95f30bc945)
