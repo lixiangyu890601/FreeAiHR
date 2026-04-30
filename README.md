@@ -195,13 +195,13 @@ www.freeipcc.com
 ## 🤝 联系客服小编
 
 通过网盘分享的文件：freeaihr源码包.zip
-链接: https://pan.baidu.com/s/1Z3YLQG7jkdHaY6TC8XqV4A?pwd=6126 提取码: 6126 
+链接: https://pan.baidu.com/s/1pt1tlACaoVZkkaIVIKRBOQ?pwd=dh9r 提取码: dh9r 
 --来自百度网盘超级会员v9的分享
 
 
 点击Star后，入群讨论：
 
-<img width="450" height="710" alt="image" src="https://github.com/user-attachments/assets/0f3df706-5b77-4687-baef-b867b31a8c98" />
+<img width="885" height="1488" alt="ad74d7ed5cbf9332d8752b3d50d2e15c" src="https://github.com/user-attachments/assets/f3f5605f-4421-4c74-aa03-ef3cccfbf85c" />
 
 扫码添加客服小编微信
 ![0e1483a4df22e1f6c8ec5404ee86a7f0](https://github.com/user-attachments/assets/d0b5edf3-aefd-4631-a073-5c95f30bc945)
