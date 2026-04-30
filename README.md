@@ -181,6 +181,28 @@ AI功能包括：
 | 中型 (<500用户) | 4核 | 8GB | 100GB |
 | 大型 (>500用户) | 8核 | 16GB | 200GB+ |
 
+## 🤝 部分截图
+
+登录页面：
+<img width="1600" height="864" alt="926db4452a465f515ac2a22a4786375a" src="https://github.com/user-attachments/assets/377ab974-7e3a-4c5e-a367-4a4f06b8aa51" />
+
+工作岗位发布界面：
+<img width="1183" height="754" alt="8843a450ab16a0616744eb7a5244beb2" src="https://github.com/user-attachments/assets/6519d671-d7a0-4ae1-98ee-b92d2995f747" />
+
+HR发布岗位界面：
+<img width="1753" height="829" alt="d7731d1f36aa1146c351acfe3bb4ffec" src="https://github.com/user-attachments/assets/13caa020-4917-4aac-87bf-f1716c05af1a" />
+
+工作台界面：
+<img width="1440" height="778" alt="31065121555f4874b08999925bdae5c8" src="https://github.com/user-attachments/assets/82702ca1-a04f-4f68-b463-2a815b247ec6" />
+
+大模型配置界面：
+<img width="2369" height="1280" alt="70a6f9f13f480f631d50564670700f89" src="https://github.com/user-attachments/assets/2dbfcc4a-88d3-49d7-ae8f-19664fe577b6" />
+
+企业个性化界面：
+<img width="1430" height="694" alt="d9ef22a0099c7e6239f62b957075db81" src="https://github.com/user-attachments/assets/eeb8ba0b-4149-4027-a5e0-7a2a145cd3cb" />
+
+
+
 ## 🤝 欢迎使用我们团队的大模型呼叫中心
 
 可访问：
