@@ -205,7 +205,7 @@ HR发布岗位界面：
 
 点击 # Star后，入群讨论：
 
-<img width="88.5" height="148.8" alt="ad74d7ed5cbf9332d8752b3d50d2e15c" src="https://github.com/user-attachments/assets/f3f5605f-4421-4c74-aa03-ef3cccfbf85c" />
+<img width="177" height="297.6" alt="ad74d7ed5cbf9332d8752b3d50d2e15c" src="https://github.com/user-attachments/assets/f3f5605f-4421-4c74-aa03-ef3cccfbf85c" />
 
 扫码添加客服小编微信
 ![0e1483a4df22e1f6c8ec5404ee86a7f0](https://github.com/user-attachments/assets/d0b5edf3-aefd-4631-a073-5c95f30bc945)
@@ -216,7 +216,7 @@ HR发布岗位界面：
 
 由于开源协议为AGPL，如希望不遵守该协议，1k-2k转账即可（备注公司名称、个人姓名等标识信息）。
 
-<img width="111.8" height="152.4" alt="66484146948f2c82ae88fd2b4001d8db" src="https://github.com/user-attachments/assets/023c9e16-078b-4810-b40e-ac65535a8c57" />
+<img width="223.6" height="304.8" alt="66484146948f2c82ae88fd2b4001d8db" src="https://github.com/user-attachments/assets/023c9e16-078b-4810-b40e-ac65535a8c57" />
 
 ## 🤝 欢迎使用我们团队的大模型呼叫中心
 
