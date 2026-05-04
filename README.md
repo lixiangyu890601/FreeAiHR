@@ -201,27 +201,9 @@ HR发布岗位界面：
 企业个性化界面：
 <img width="1430" height="694" alt="d9ef22a0099c7e6239f62b957075db81" src="https://github.com/user-attachments/assets/eeb8ba0b-4149-4027-a5e0-7a2a145cd3cb" />
 
-
-
-## 🤝 欢迎使用我们团队的大模型呼叫中心
-
-可访问：
-www.freeaicc.com 
-www.freeipcc.com
-
-有三个版本：
-1. 外呼系统
-2. 呼入系统
-3. 大模型呼叫中心系统（呼入与呼出）
-
 ## 🤝 联系客服小编
 
-通过网盘分享的文件：freeaihr源码包.zip
-链接: https://pan.baidu.com/s/1pt1tlACaoVZkkaIVIKRBOQ?pwd=dh9r 提取码: dh9r 
---来自百度网盘超级会员v9的分享
-
-
-点击Star后，入群讨论：
+点击 # Star后，入群讨论：
 
 <img width="885" height="1488" alt="ad74d7ed5cbf9332d8752b3d50d2e15c" src="https://github.com/user-attachments/assets/f3f5605f-4421-4c74-aa03-ef3cccfbf85c" />
 
@@ -230,10 +212,26 @@ www.freeipcc.com
 
 如有问题或建议，欢迎提交 Issue 或 Pull Request。
 
-另：
+## 开源不易，欢迎打赏
+
 由于开源协议为AGPL，如希望不遵守该协议，1k-2k转账即可（备注公司名称、个人姓名等标识信息）。
 
----
+<img width="1118" height="1524" alt="66484146948f2c82ae88fd2b4001d8db" src="https://github.com/user-attachments/assets/023c9e16-078b-4810-b40e-ac65535a8c57" />
+
+## 🤝 欢迎使用我们团队的大模型呼叫中心
+
+可访问：
+
+www.freeaicc.com 
+
+www.freeipcc.com
+
+有三个版本：
+1. 外呼系统
+2. 呼入系统
+3. 大模型呼叫中心系统（呼入与呼出）
+
+------------------------
 
 <p align="center">Made with ❤️ by FreeAiHR Team</p>
 
