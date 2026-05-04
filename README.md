@@ -208,7 +208,9 @@ HR发布岗位界面：
 <img width="177" height="297.6" alt="ad74d7ed5cbf9332d8752b3d50d2e15c" src="https://github.com/user-attachments/assets/f3f5605f-4421-4c74-aa03-ef3cccfbf85c" />
 
 扫码添加客服小编微信
-![0e1483a4df22e1f6c8ec5404ee86a7f0](https://github.com/user-attachments/assets/d0b5edf3-aefd-4631-a073-5c95f30bc945)
+
+<img width="205.8" height="282.0" alt="3afe58413fda51e3833432a56742810f" src="https://github.com/user-attachments/assets/bae3f6d8-abfb-4739-8f67-9efd310d8b6a" />
+
 
 如有问题或建议，欢迎提交 Issue 或 Pull Request。
 
