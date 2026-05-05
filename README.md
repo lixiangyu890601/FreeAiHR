@@ -1,4 +1,4 @@
-# FreeAiHR - AI时代下的人力资源系统
+# FreeAiHR - AI时代下的人力资源系统-全量代码
 <p align="left">
   <img src="https://img.shields.io/badge/Java-17-orange" alt="Java">
   <img src="https://img.shields.io/badge/Spring%20Boot-3.2.5-green" alt="Spring Boot">
@@ -11,6 +11,8 @@
 ## 📖 简介
 
 AI面试，AI简历，AI人力资源！FreeAiHR 是一款企业级、人工智能时代下的智能招聘解决方案，支持私有化部署，AI驱动的全流程招聘管理系统！
+
+全量代码，无缺失，如遇bug，尽快提交。
 
 ### ✨ 核心特性
 
