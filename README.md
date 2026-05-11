@@ -207,7 +207,7 @@ HR发布岗位界面：
 
 点击 # Star后，入群讨论：
 
-<img width="177" height="297.6" alt="ad74d7ed5cbf9332d8752b3d50d2e15c" src="https://github.com/user-attachments/assets/f3f5605f-4421-4c74-aa03-ef3cccfbf85c" />
+<img width="177" height="297.6" alt="5c3e8abbdc92e55b366d319243e3c7ac" src="https://github.com/user-attachments/assets/8a22a2e6-de24-48ff-b9d9-409ea1fec296" />
 
 扫码添加客服小编微信
 
